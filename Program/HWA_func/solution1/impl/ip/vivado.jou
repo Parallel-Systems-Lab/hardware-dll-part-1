@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 928826 on Thu Jun  5 18:17:50 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Fri Apr 24 14:30:57 2015
+# Process ID: 5540
+# Log file: C:/Temp/RC/HWA_func/solution1/impl/ip/vivado.log
+# Journal file: C:/Temp/RC/HWA_func/solution1/impl/ip\vivado.jou
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace

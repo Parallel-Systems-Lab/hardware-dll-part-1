@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AutoPilot:ProjectResources xmlns:AutoPilot="com.autoesl.autopilot.ui.directiveView">
+  <sourceFile>
+    <directive functionName="HWA_func" label="" functionLabel="">
+      <pragma name="RESOURCE">
+        <option name="variable" value="x" positionalBoolean="4"/>
+        <option name="core" value="AXI4LiteS"/>
+        <option name="metadata" value="&quot;-bus_bundle hwa_io&quot;"/>
+      </pragma>
+    </directive>
+    <directive functionName="HWA_func" label="" functionLabel="">
+      <pragma name="RESOURCE">
+        <option name="variable" value="id" positionalBoolean="4"/>
+        <option name="core" value="AXI4LiteS"/>
+        <option name="metadata" value="&quot;-bus_bundle hwa_io&quot;"/>
+      </pragma>
+    </directive>
+    <directive functionName="HWA_func" label="" functionLabel="">
+      <pragma name="RESOURCE">
+        <option name="variable" value="out" positionalBoolean="4"/>
+        <option name="core" value="AXI4LiteS"/>
+        <option name="metadata" value="&quot;-bus_bundle hwa_io&quot;"/>
+      </pragma>
+    </directive>
+    <directive functionName="HWA_func" label="" functionLabel="">
+      <pragma name="RESOURCE">
+        <option name="variable" value="return" positionalBoolean="4"/>
+        <option name="core" value="AXI4LiteS"/>
+        <option name="metadata" value="&quot;-bus_bundle hwa_io&quot;"/>
+      </pragma>
+    </directive>
+    <directive functionName="HWA_func" label="" functionLabel="">
+      <pragma name="RESOURCE">
+        <option name="variable" value="y" positionalBoolean="4"/>
+        <option name="core" value="AXI4LiteS"/>
+        <option name="metadata" value="&quot;-bus_bundle hwa_io&quot;"/>
+      </pragma>
+    </directive>
+  </sourceFile>
+</AutoPilot:ProjectResources>

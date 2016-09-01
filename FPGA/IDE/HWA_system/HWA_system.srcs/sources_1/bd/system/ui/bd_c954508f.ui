@@ -1,0 +1,54 @@
+{
+   guistr: "# # String gsaved with Nlview version 6.4-r1  2014-02-28 bk=1.3047 VDI=34 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -y 290 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -y 310 -defaultsOSRD
+preplace inst HWA_func_10 -pg 1 -lvl 1 -y 1130 -defaultsOSRD
+preplace inst HWA_func_0 -pg 1 -lvl 1 -y 90 -defaultsOSRD
+preplace inst HWA_func_11 -pg 1 -lvl 2 -y 1320 -defaultsOSRD
+preplace inst HWA_func_1 -pg 1 -lvl 1 -y 440 -defaultsOSRD
+preplace inst HWA_func_12 -pg 1 -lvl 1 -y 1260 -defaultsOSRD
+preplace inst HWA_func_2 -pg 1 -lvl 1 -y 260 -defaultsOSRD
+preplace inst HWA_func_13 -pg 1 -lvl 2 -y 1450 -defaultsOSRD
+preplace inst HWA_func_3 -pg 1 -lvl 2 -y 100 -defaultsOSRD
+preplace inst rst_processing_system7_0_50M -pg 1 -lvl 3 -y 240 -defaultsOSRD
+preplace inst HWA_func_14 -pg 1 -lvl 1 -y 1390 -defaultsOSRD
+preplace inst HWA_func_4 -pg 1 -lvl 1 -y 660 -defaultsOSRD
+preplace inst HWA_func_15 -pg 1 -lvl 2 -y 1580 -defaultsOSRD
+preplace inst HWA_func_5 -pg 1 -lvl 2 -y 280 -defaultsOSRD
+preplace inst HWA_func_6 -pg 1 -lvl 1 -y 830 -defaultsOSRD
+preplace inst HWA_func_7 -pg 1 -lvl 2 -y 500 -defaultsOSRD
+preplace inst HWA_func_8 -pg 1 -lvl 1 -y 960 -defaultsOSRD
+preplace inst HWA_func_9 -pg 1 -lvl 2 -y 700 -defaultsOSRD
+preplace inst processing_system7_0_axi_periph -pg 1 -lvl 4 -y 470 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 2 -y 1060 -defaultsOSRD
+preplace netloc processing_system7_0_axi_periph_M09_AXI 1 0 5 60 580 NJ 610 NJ 920 NJ 920 1990
+preplace netloc processing_system7_0_DDR 1 2 5 NJ 1000 NJ 1000 NJ 980 NJ 980 2160
+preplace netloc processing_system7_0_axi_periph_M15_AXI 1 1 4 440 930 NJ 990 NJ 990 2000
+preplace netloc processing_system7_0_axi_periph_M08_AXI 1 1 4 440 630 NJ 940 NJ 940 2060
+preplace netloc processing_system7_0_axi_periph_M03_AXI 1 1 4 400 20 NJ 20 NJ 20 2070
+preplace netloc processing_system7_0_axi_periph_M00_AXI 1 0 5 20 10 NJ 10 NJ 10 NJ 10 2050
+preplace netloc rst_processing_system7_0_50M_interconnect_aresetn 1 3 1 1660
+preplace netloc processing_system7_0_axi_periph_M12_AXI 1 0 5 80 760 NJ 890 NJ 950 NJ 950 1970
+preplace netloc processing_system7_0_axi_periph_M11_AXI 1 1 4 420 900 NJ 960 NJ 960 2030
+preplace netloc processing_system7_0_axi_periph_M07_AXI 1 1 4 440 430 NJ 430 NJ 890 1960
+preplace netloc processing_system7_0_M_AXI_GP0 1 2 2 NJ 140 1610
+preplace netloc processing_system7_0_axi_periph_M05_AXI 1 1 4 440 210 NJ 350 NJ 40 2060
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 2 1 1250
+preplace netloc rst_processing_system7_0_50M_peripheral_aresetn 1 0 4 30 1060 380 180 NJ 130 1630
+preplace netloc processing_system7_0_axi_periph_M02_AXI 1 0 5 40 190 NJ 190 NJ 340 NJ 30 1970
+preplace netloc processing_system7_0_axi_periph_M06_AXI 1 0 5 50 570 NJ 600 NJ 910 NJ 910 2040
+preplace netloc processing_system7_0_axi_periph_M14_AXI 1 0 5 90 1050 NJ 920 NJ 980 NJ 980 2010
+preplace netloc processing_system7_0_FIXED_IO 1 2 5 NJ 1010 NJ 1010 NJ 1000 NJ 1000 2170
+preplace netloc processing_system7_0_axi_periph_M10_AXI 1 0 5 70 590 NJ 620 NJ 930 NJ 930 1980
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 4 20 340 400 200 1230 150 1650
+preplace netloc processing_system7_0_axi_periph_M13_AXI 1 1 4 430 910 NJ 970 NJ 970 2020
+preplace netloc processing_system7_0_axi_periph_M04_AXI 1 0 5 40 560 NJ 590 NJ 900 NJ 900 2050
+preplace netloc processing_system7_0_axi_periph_M01_AXI 1 0 5 40 370 NJ 370 NJ 370 NJ 50 1960
+levelinfo -pg 1 0 230 950 1440 1810 2090 2140 2190
+",
+}
+{
+   da_axi4_cnt: "16",
+   da_ps7_cnt: "1",
+}

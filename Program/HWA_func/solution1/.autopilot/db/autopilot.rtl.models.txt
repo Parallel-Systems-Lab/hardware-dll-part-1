@@ -1,0 +1,2 @@
+HWA_func_srem_32ns_32ns_32_35_seq
+HWA_func
